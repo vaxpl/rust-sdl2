@@ -116,6 +116,11 @@ required-features = ["mixer"]
 name = "mixer-demo"
 
 [[example]]
+required-features = ["mixer"]
+name = "mixer-streams"
+edition = "2018"
+
+[[example]]
 name = "mouse-state"
 
 [[example]]
